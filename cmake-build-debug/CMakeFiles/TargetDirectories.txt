@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/sasso_carta_forbici/cmake-build-debug/CMakeFiles/sasso_carta_forbici.dir
+C:/Users/Hp/CLionProjects/sasso_carta_forbici/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/sasso_carta_forbici/cmake-build-debug/CMakeFiles/rebuild_cache.dir
